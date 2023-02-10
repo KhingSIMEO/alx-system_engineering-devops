@@ -1,4 +1,0 @@
-#!/bin/bash
-chmod u+---
-chmod g+---
-chmod 0+rwx
